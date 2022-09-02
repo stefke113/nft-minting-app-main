@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7f3593a95Bebe81B82c67D607e1422F436dd1Cc1",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7f3593a95Bebe81B82c67D607e1422F436dd1Cc1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "colourfull koalas",
+  "SYMBOL": "CFK",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/colourfullkoalas",
+  "SHOW_BACKGROUND": true
+}
